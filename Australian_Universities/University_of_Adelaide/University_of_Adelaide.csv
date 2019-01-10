@@ -1,0 +1,552 @@
+Course_Name,Course_Level,Course_Type,Cource_Description,University_Name,Link
+Bachelor of Arts,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/barts_bart.html
+Bachelor of Arts (Advanced),Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/barta_bartadv.html
+Bachelor of Creative Arts,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bca_bcrarts.html
+Bachelor of Criminology,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bcrim_bcrim.html
+Bachelor of Environmental Policy and Management,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/benvs_benvs.html
+Bachelor of International Development,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bdvst_bdevstud.html
+Bachelor of International Relations,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bintr_bintlrel.html
+Bachelor of Languages,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/blang_blang.html
+Bachelor of Liberal Arts and Sciences,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/blas_blibartssc.html
+Bachelor of Media,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmedi_bmedia.html
+Bachelor of Peace and Conflict Studies,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bpcs_bpcstud.html
+"Bachelor of Philosophy, Politics and Economics",Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bppe_bphilpolec.html
+Bachelor of Social Sciences,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsocs_bsocialsc.html
+Bachelor of Sociology,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsoc_bsociol.html
+Bachelor of Arts with Bachelor of Economics,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/babec_bartbec.html
+Bachelor of Arts with Bachelor of Music,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/babmu_bartbmusd1.html
+Bachelor of Arts with Bachelor of Science,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/babsc_bartbscd1.html
+Bachelor of Criminology with Bachelor of Laws,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bcbl_bcrimblaw.html
+Bachelor of Criminology with Bachelor of Laws (Honours),Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hcrla_hbcrimblaw.html
+Bachelor of International Relations with Bachelor of Arts,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/birba_bintrebart.html
+Bachelor of International Relations with Bachelor of Economics,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/birbe_bintrebec.html
+Bachelor of International Relations with Bachelor of Media,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/birbm_bintrebmed.html
+Bachelor of Media with Bachelor of Arts,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmeba_bmediabart.html
+Bachelor of Media with Bachelor of Computer Sciences,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmbcs_bmediabcsc.html
+Bachelor of Media with Bachelor of Criminology,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmbc_bmediabcri.html
+Bachelor of Media with Bachelor of Sociology,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmbs_bmediabsoc.html
+Honours Degree of Bachelor of Arts,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/harts_hbart.html
+Honours Degree of Bachelor of Environmental Policy and Management,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/henst_hbenvst.html
+Honours Degree of Bachelor of International Development,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hdvst_hbdevstud.html
+Honours Degree of Bachelor of International Relations,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hbinr_hbintlrel.html
+Honours Degree of Bachelor of Languages,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hlang_hblang.html
+Honours Degree of Bachelor of Media,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmedi_hbmedia.html
+Honours Degree of Bachelor of Social Sciences,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hsocs_hbsocialsc.html
+Diploma in Arts,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/darts_diparts.html
+Diploma in Languages,Undergraduate,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/dilan_diplang.html
+Bachelor of Arts,Undergraduate,Languages,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/barts_bart.html
+Bachelor of International Relations,Undergraduate,Languages,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bintr_bintlrel.html
+Bachelor of Languages,Undergraduate,Languages,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/blang_blang.html
+Honours Degree of Bachelor of Languages,Undergraduate,Languages,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hlang_hblang.html
+Diploma in Languages,Undergraduate,Languages,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/dilan_diplang.html
+Bachelor of Creative Arts,Undergraduate,Media,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bca_bcrarts.html
+Bachelor of Media,Undergraduate,Media,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmedi_bmedia.html
+Bachelor of International Relations with Bachelor of Media,Undergraduate,Media,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/birbm_bintrebmed.html
+Bachelor of Media with Bachelor of Arts,Undergraduate,Media,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmeba_bmediabart.html
+Bachelor of Media with Bachelor of Computer Sciences,Undergraduate,Media,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmbcs_bmediabcsc.html
+Bachelor of Media with Bachelor of Criminology,Undergraduate,Media,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmbc_bmediabcri.html
+Bachelor of Media with Bachelor of Sociology,Undergraduate,Media,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmbs_bmediabsoc.html
+Honours Degree of Bachelor of Media,Undergraduate,Media,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmedi_hbmedia.html
+Bachelor of Creative Arts,Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bca_bcrarts.html
+Bachelor of Music,Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmus_bmus.html
+Bachelor of Music (Advanced),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmadv_bmusadv.html
+Bachelor of Music (Classical Voice),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmus_bmuscv.html
+Bachelor of Music (Music Composition),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmus_bmusmc.html
+Bachelor of Music (Music Education and Pedagogy),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmus_bmusmep.html
+Bachelor of Music (Music Performance - Classical),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmus_bmusmpc.html
+Bachelor of Music (Music Performance - Jazz),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmus_bmusmpj.html
+Bachelor of Music (Musicology),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmus_bmusicol.html
+Bachelor of Music (Popular Music),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmus_bmuspm.html
+Bachelor of Music (Sonic Arts),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmus_bmussonic.html
+Bachelor of Music Theatre,Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmuth_bmusthtre.html
+Bachelor of Arts with Bachelor of Music,Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/babmu_bartbmusd1.html
+Honours Degree of Bachelor of Music (Classical Voice),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmus_hbmuscv.html
+Honours Degree of Bachelor of Music (Music Composition),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmus_hbmusmc.html
+Honours Degree of Bachelor of Music (Music Education and Pedagogy),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmus_hbmusmep.html
+Honours Degree of Bachelor of Music (Music Performance - Classical),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmus_hbmusmpc.html
+Honours Degree of Bachelor of Music (Music Performance - Jazz),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmus_hbmusmpj.html
+Honours Degree of Bachelor of Music (Musicology),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmus_hbmusicol.html
+Honours Degree of Bachelor of Music (Popular Music),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmus_hbmuspm.html
+Honours Degree of Bachelor of Music (Sonic Arts),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmus_hbmussonic.html
+Diploma in Music,Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/dipmu_dipmus.html
+Diploma in Music (Commercial Music and Song Writing),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/dmcms_dipmcmsw.html
+Diploma in Music (Music Production),Undergraduate,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/dimmp_dipmmp.html
+Bachelor of Criminology,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bcrim_bcrim.html
+Bachelor of Environmental Policy and Management,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/benvs_benvs.html
+Bachelor of International Development,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bdvst_bdevstud.html
+Bachelor of International Relations,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bintr_bintlrel.html
+Bachelor of Peace and Conflict Studies,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bpcs_bpcstud.html
+Bachelor of Social Sciences,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsocs_bsocialsc.html
+Bachelor of Sociology,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsoc_bsociol.html
+Bachelor of Criminology with Bachelor of Laws,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bcbl_bcrimblaw.html
+Bachelor of Criminology with Bachelor of Laws (Honours),Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hcrla_hbcrimblaw.html
+Bachelor of International Relations with Bachelor of Arts,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/birba_bintrebart.html
+Bachelor of International Relations with Bachelor of Economics,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/birbe_bintrebec.html
+Bachelor of International Relations with Bachelor of Media,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/birbm_bintrebmed.html
+Bachelor of Media with Bachelor of Criminology,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmbc_bmediabcri.html
+Bachelor of Media with Bachelor of Sociology,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmbs_bmediabsoc.html
+Honours Degree of Bachelor of Environmental Policy and Management,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/henst_hbenvst.html
+Honours Degree of Bachelor of International Development,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hdvst_hbdevstud.html
+Honours Degree of Bachelor of International Relations,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hbinr_hbintlrel.html
+Honours Degree of Bachelor of Social Sciences,Undergraduate,Social Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hsocs_hbsocialsc.html
+Bachelor of Music (Music Education and Pedagogy),Undergraduate,Teaching and Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmus_bmusmep.html
+Bachelor of Teaching (Middle) with Bachelor of Arts,Undergraduate,Teaching and Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/btmba_btchmidba.html
+Bachelor of Teaching (Middle) with Bachelor of Mathematical and Computer Sciences,Undergraduate,Teaching and Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/btmm_btchmidbm.html
+Bachelor of Teaching (Middle) with Bachelor of Music,Undergraduate,Teaching and Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/btmbm_btchmidbmu.html
+Bachelor of Teaching (Middle) with Bachelor of Science,Undergraduate,Teaching and Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/btmbs_btchmidbsc.html
+Bachelor of Teaching (Secondary) with Bachelor of Arts,Undergraduate,Teaching and Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/btsba_btchsecba.html
+Bachelor of Teaching (Secondary) with Bachelor of Economics,Undergraduate,Teaching and Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/btsbe_btchsecbec.html
+Bachelor of Teaching (Secondary) with Bachelor of Mathematical and Computer Sciences,Undergraduate,Teaching and Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/btsm_btchsecbm.html
+Bachelor of Teaching (Secondary) with Bachelor of Music,Undergraduate,Teaching and Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/btsbm_btchsecbmu.html
+Bachelor of Teaching (Secondary) with Bachelor of Science,Undergraduate,Teaching and Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/btsbs_btchsecbsc.html
+Bachelor of Computer Science,Undergraduate,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bcomp_bcmpsci.html
+Bachelor of Computer Science (Advanced),Undergraduate,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bcmsa_bcmpscadv.html
+Bachelor of Mathematical and Computer Sciences,Undergraduate,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bscms_bscm&cs.html
+Bachelor of Mathematical and Computer Sciences with Bachelor of Finance,Undergraduate,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bfibm_bfinbmd1.html
+Bachelor of Media with Bachelor of Computer Sciences,Undergraduate,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmbcs_bmediabcsc.html
+Honours Degree of Bachelor of Computer Science,Undergraduate,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hcomp_hbcompsc.html
+Honours Degree of Bachelor of Mathematical and Computer Sciences,Undergraduate,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hsmcs_hbscm&cs.html
+Bachelor of Engineering (Honours)(Chemical) with Bachelor of Finance,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedfk_behchemd2.html
+Bachelor of Engineering (Honours)(Chemical) with Bachelor of Mathematical and Computer Sciences,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedmn_behchemd4.html
+Bachelor of Engineering (Honours)(Chemical) with Bachelor of Science,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedsm_behchemd3.html
+Bachelor of Engineering (Honours)(Chemical) with Bachelor of Science (Biotechnology),Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedso_behchemdb.html
+Bachelor of Engineering (Honours)(Civil) with Bachelor of Finance,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedfj_behcivild2.html
+Bachelor of Engineering (Honours)(Civil) with Bachelor of Mathematical and Computer Sciences,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedmm_behcivild4.html
+Bachelor of Engineering (Honours)(Civil) with Bachelor of Science,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedsl_behcivild3.html
+Bachelor of Engineering (Honours)(Electrical & Electronic) with Bachelor of Science,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/beds7_beheed3.html
+Bachelor of Engineering (Honours)(Electrical and Electronic) with Bachelor of Finance,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedfl_behe&ed2.html
+Bachelor of Engineering (Honours)(Electrical and Electronic) with Bachelor of Mathematical and Computer Sciences,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedmo_behe&ed4.html
+Bachelor of Engineering (Honours)(Environmental) with Bachelor of Finance,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedf9_behenvd9.html
+Bachelor of Engineering (Honours)(Environmental) with Bachelor of Mathematical and Computer Sciences,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedml_behenvd4.html
+Bachelor of Engineering (Honours)(Environmental) with Bachelor of Science,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedsj_behenvd3.html
+Bachelor of Engineering (Honours)(Mechanical) with Bachelor of Finance,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedfm_behmechd2.html
+Bachelor of Engineering (Honours)(Mechanical) with Bachelor of Mathematical and Computer Sciences,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedmp_behmechd4.html
+Bachelor of Engineering (Honours)(Mechanical) with Bachelor of Science,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedsn_behmechd3.html
+Bachelor of Engineering (Honours)(Mining) with Bachelor of Mathematical and Computer Sciences,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedmq_behmind4.html
+Bachelor of Engineering (Honours)(Mining) with Bachelor of Science,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bedsp_behmind3.html
+Bachelor of Engineering (Honours)(Petroleum) with Bachelor of Science,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/beds8_behpetd3.html
+Bachelor of Engineering (Honours)(Chemical) and Bachelor of Arts,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bebal_behchemba.html
+Bachelor of Engineering (Honours)(Civil) and Bachelor of Arts,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bebak_behcivilba.html
+Bachelor of Engineering (Honours)(Electrical and Electronic) and Bachelor of Arts,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bebam_behe&eba.html
+Bachelor of Engineering (Honours)(Environmental) and Bachelor of Arts,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bebaj_behenvba.html
+Bachelor of Engineering (Honours)(Mechanical) and Bachelor of Arts,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/beban_behmechba.html
+Bachelor of Engineering (Honours) - Engineering Pathway,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/behep_behengpath.html
+Bachelor of Engineering (Honours) - Flexible Entry,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/behf_behflex.html
+Bachelor of Engineering (Honours)(Architectural and Structural),Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bengh_beha&ss1.html
+Bachelor of Engineering (Honours)(Chemical),Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bengh_behchems1.html
+Bachelor of Engineering (Honours)(Civil),Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bengh_behcivs1.html
+Bachelor of Engineering (Honours)(Electrical and Electronic),Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bengh_behe&es1.html
+Bachelor of Engineering (Honours)(Environmental),Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bengh_behenvirs1.html
+Bachelor of Engineering (Honours)(Mechanical),Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bengh_behmechs1.html
+Bachelor of Engineering (Honours)(Mining),Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bengh_behmins1.html
+Bachelor of Engineering (Honours)(Petroleum),Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bengh_behpets1.html
+Bachelor of Engineering (Honours)(Petroleum) with major,Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/behpe_behpetrol.html
+Bachelor of Engineering (Honours)(Software),Undergraduate,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bengh_behsofts1.html
+Bachelor of Mathematical Sciences,Undergraduate,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmasc_bmathsci.html
+Bachelor of Mathematical Sciences (Advanced),Undergraduate,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmsad_bmathscadv.html
+Bachelor of Mathematical and Computer Sciences,Undergraduate,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bscms_bscm&cs.html
+Bachelor of Mathematical and Computer Sciences with Bachelor of Finance,Undergraduate,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bfibm_bfinbmd1.html
+Honours Degree of Bachelor of Mathematical Sciences,Undergraduate,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmasc_hbmathsci.html
+Honours Degree of Bachelor of Mathematical and Computer Sciences,Undergraduate,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hsmcs_hbscm&cs.html
+Bachelor of Dental Surgery,Undergraduate,Dentistry,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bds_bds.html
+Bachelor of Oral Health,Undergraduate,Dentistry,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/boral_boralhlth.html
+Honours Degree of Bachelor of Science in Dentistry - Teaching Hospitals,Undergraduate,Dentistry,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hscd_hbscdent.html
+Bachelor of Health and Medical Sciences,Undergraduate,Health and Medical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bhms_bhlthmsc.html
+Bachelor of Health and Medical Sciences (Advanced),Undergraduate,Health and Medical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bhmsa_bhlthmsca.html
+Honours Degree of Bachelor of Health and Medical Sciences,Undergraduate,Health and Medical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hhmsc_hbhlthmeds.html
+Honours Degree of Bachelor of Medical Science,Undergraduate,Health and Medical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmeds_hbmedsc.html
+Bachelor of Health and Medical Sciences,Undergraduate,Medicine,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bhms_bhlthmsc.html
+Bachelor of Medicine and Bachelor of Surgery,Undergraduate,Medicine,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmbbs_bmbbs.html
+Honours Degree of Bachelor of Medical Science,Undergraduate,Medicine,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hmeds_hbmedsc.html
+"Bachelor of Nursing - North Terrace Campus, Teaching Hospitals",Undergraduate,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bnurs_bnursing.html
+Honours Degree of Bachelor of Nursing,Undergraduate,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hnurs_hbnursing.html
+Bachelor of Arts,Undergraduate,Psychology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/barts_bart.html
+Bachelor of Psychological Science,Undergraduate,Psychology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bpsyc_bpsyc.html
+Honours Degree of Bachelor of Psychology (Advanced),Undergraduate,Psychology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hpsya_hbpsycadv.html
+Honours Degree of Bachelor of Psychological Science,Undergraduate,Psychology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hpsy_hbpsyc.html
+Bachelor of Architectural Design,Undergraduate,Architecture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bdest_bdesignst.html
+Honours Degree of Bachelor of Architectural Design,Undergraduate,Architecture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hdess_hbdesignst.html
+Bachelor of Accounting,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bacc_bacc.html
+Bachelor of Accounting and Corporate Finance,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bacf_bacccrpfin.html
+Bachelor of Business (Global),Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bbusg_bbusglobal.html
+Bachelor of Business Management,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bbmgt_bbusmgt.html
+Bachelor of Business Management and Accounting,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bbma_bbusmgtacc.html
+Bachelor of Commerce,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bcom_bcom.html
+Bachelor of Corporate Finance,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bcofi_bcorpfin.html
+Bachelor of Economics,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bec_becon.html
+Bachelor of Economics (Advanced),Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/beca_beconadv.html
+Bachelor of Finance,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bfin_bfin.html
+Bachelor of Finance (International),Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bfin_bfinint.html
+Bachelor of Innovation and Entrepreneurship,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/binne_binnent.html
+Bachelor of International Business,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bintb_bintbus.html
+Bachelor of Marketing,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bmktg_bmarketing.html
+Bachelor of Project Management,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bpm_bprojmgt.html
+Bachelor of Economics with Bachelor of Finance,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/becbf_beconbfd1.html
+Bachelor of International Relations with Bachelor of Economics,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/birbe_bintrebec.html
+Bachelor of Mathematical and Computer Sciences with Bachelor of Finance,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bfibm_bfinbmd1.html
+Honours Degree of Bachelor of Commerce,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hcom_hbcom.html
+Honours Degree of Bachelor of Economics,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hec_hbec.html
+Honours Degree of Bachelor of Finance,Undergraduate,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hfin_hbfin.html
+Bachelor of Laws,Undergraduate,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/blaws_llb.html
+Bachelor of Criminology with Bachelor of Laws,Undergraduate,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bcbl_bcrimblaw.html
+Bachelor of Criminology with Bachelor of Laws (Honours),Undergraduate,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hcrla_hbcrimblaw.html
+"Bachelor of Agricultural Sciences - Roseworthy Campus, Waite Campus",Undergraduate,Agriculture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bags_bagricsci.html
+Bachelor of Applied Biology - Waite Campus,Undergraduate,Agriculture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bappb_bappbio.html
+Bachelor of Science,Undergraduate,Agriculture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bsci.html
+Bachelor of Science (Advanced),Undergraduate,Agriculture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscadv.html
+Bachelor of Science (Animal Science) - Roseworthy Campus,Undergraduate,Agriculture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscas.html
+Bachelor of Science and Entrepreneurship,Undergraduate,Agriculture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bscen_bscentrep.html
+Bachelor of Viticulture and Oenology - Waite Campus,Undergraduate,Agriculture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bvito_bvitoenol.html
+Honours Degree of Bachelor of Applied Biology - Waite Campus,Undergraduate,Agriculture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/happb_hbappbio.html
+Honours Degree of Bachelor of Food & Nutrition Science - Waite Campus,Undergraduate,Agriculture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hfsct_hbfsct.html
+Honours Degree of Bachelor of Science,Undergraduate,Agriculture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hsc_hbsc.html
+Honours Degree of Bachelor of Viticulture and Oenology - Waite Campus,Undergraduate,Agriculture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hvito_hbvitoen.html
+"Bachelor of Agricultural Sciences - Roseworthy Campus, Waite Campus",Undergraduate,Animal and Veterinary Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bags_bagricsci.html
+Bachelor of Science (Advanced),Undergraduate,Animal and Veterinary Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscadv.html
+Bachelor of Science (Animal Behaviour) - Roseworthy Campus,Undergraduate,Animal and Veterinary Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscab.html
+Bachelor of Science (Animal Science) - Roseworthy Campus,Undergraduate,Animal and Veterinary Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscas.html
+"Bachelor of Science (Veterinary Bioscience) - North Terrace Campus, Roseworthy Campus",Undergraduate,Animal and Veterinary Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bscpv_bscaspv.html
+Bachelor of Science (Wildlife Conservation Biology),Undergraduate,Animal and Veterinary Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscwcb.html
+Bachelor of Applied Biology - Waite Campus,Undergraduate,Biology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bappb_bappbio.html
+"Bachelor of Food and Nutrition Science - North Terrace Campus, Waite Campus, Regency Park",Undergraduate,Biology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bfsct_bfoodsct.html
+Bachelor of Science,Undergraduate,Biology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bsci.html
+Bachelor of Science (Advanced),Undergraduate,Biology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscadv.html
+Bachelor of Science (Biomedical Science),Undergraduate,Biology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscibiomed.html
+Bachelor of Science (Biotechnology),Undergraduate,Biology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscbiotech.html
+Bachelor of Science (Ecotourism),Undergraduate,Biology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscectour.html
+Bachelor of Science (Wildlife Conservation Biology),Undergraduate,Biology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscwcb.html
+Bachelor of Science and Entrepreneurship,Undergraduate,Biology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bscen_bscentrep.html
+Bachelor of Applied Biology - Waite Campus,Undergraduate,Biomedical Science and Biotechnology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bappb_bappbio.html
+Bachelor of Science,Undergraduate,Biomedical Science and Biotechnology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bsci.html
+Bachelor of Science (Advanced),Undergraduate,Biomedical Science and Biotechnology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscadv.html
+Bachelor of Science (Biomedical Science),Undergraduate,Biomedical Science and Biotechnology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscibiomed.html
+Bachelor of Science (Biotechnology),Undergraduate,Biomedical Science and Biotechnology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscbiotech.html
+Bachelor of Science and Entrepreneurship,Undergraduate,Biomedical Science and Biotechnology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bscen_bscentrep.html
+Honours Degree of Bachelor of Science,Undergraduate,Biomedical Science and Biotechnology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hsc_hbsc.html
+Bachelor of Applied Biology - Waite Campus,Undergraduate,Chemistry,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bappb_bappbio.html
+Bachelor of Science,Undergraduate,Chemistry,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bsci.html
+Bachelor of Science (Advanced),Undergraduate,Chemistry,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscadv.html
+Bachelor of Science and Entrepreneurship,Undergraduate,Chemistry,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bscen_bscentrep.html
+Bachelor of Science,Undergraduate,Earth and Environmental Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bsci.html
+Bachelor of Science (Advanced),Undergraduate,Earth and Environmental Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscadv.html
+Bachelor of Science (Ecotourism),Undergraduate,Earth and Environmental Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscectour.html
+Bachelor of Science (Energy Geoscience),Undergraduate,Earth and Environmental Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bsceg.html
+Bachelor of Science (Marine Biology),Undergraduate,Earth and Environmental Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscmarine.html
+Bachelor of Science (Mineral Geoscience),Undergraduate,Earth and Environmental Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscmige.html
+Bachelor of Science (Wildlife Conservation Biology),Undergraduate,Earth and Environmental Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscwcb.html
+"Bachelor of Agricultural Sciences - Roseworthy Campus, Waite Campus",Undergraduate,Food and Nutrition,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bags_bagricsci.html
+Bachelor of Applied Biology - Waite Campus,Undergraduate,Food and Nutrition,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bappb_bappbio.html
+"Bachelor of Food and Nutrition Science - North Terrace Campus, Waite Campus, Regency Park",Undergraduate,Food and Nutrition,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bfsct_bfoodsct.html
+Bachelor of Science,Undergraduate,Food and Nutrition,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bsci.html
+Bachelor of Science (Advanced),Undergraduate,Food and Nutrition,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscadv.html
+Bachelor of Science and Entrepreneurship,Undergraduate,Food and Nutrition,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bscen_bscentrep.html
+Bachelor of Science,Undergraduate,Physics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bsci.html
+Bachelor of Science (Advanced),Undergraduate,Physics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscadv.html
+Bachelor of Science (Space Sc & Astrophysics),Undergraduate,Physics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscssap.html
+Bachelor of Science and Entrepreneurship,Undergraduate,Physics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bscen_bscentrep.html
+Honours Degree of Bachelor of Science in High Performance Computational Physics,Undergraduate,Physics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hschp_hschp.html
+"Bachelor of Agricultural Sciences - Roseworthy Campus, Waite Campus",Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bags_bagricsci.html
+Bachelor of Applied Biology - Waite Campus,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bappb_bappbio.html
+"Bachelor of Food and Nutrition Science - North Terrace Campus, Waite Campus, Regency Park",Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bfsct_bfoodsct.html
+Bachelor of Science,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bsci.html
+Bachelor of Science (Advanced),Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscadv.html
+Bachelor of Science (Animal Behaviour) - Roseworthy Campus,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscab.html
+Bachelor of Science (Animal Science) - Roseworthy Campus,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscas.html
+Bachelor of Science (Biomedical Science),Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscibiomed.html
+Bachelor of Science (Biotechnology),Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscbiotech.html
+Bachelor of Science (Ecotourism),Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscectour.html
+Bachelor of Science (Energy Geoscience),Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bsceg.html
+Bachelor of Science (Marine Biology),Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscmarine.html
+Bachelor of Science (Mineral Geoscience),Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscmige.html
+Bachelor of Science (Space Sc & Astrophysics),Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscssap.html
+"Bachelor of Science (Veterinary Bioscience) - North Terrace Campus, Roseworthy Campus",Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bscpv_bscaspv.html
+Bachelor of Science (Wildlife Conservation Biology),Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bsc_bscwcb.html
+Bachelor of Science and Entrepreneurship,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bscen_bscentrep.html
+Bachelor of Viticulture and Oenology - Waite Campus,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bvito_bvitoenol.html
+Honours Degree of Bachelor of Science in High Performance Computational Physics,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hschp_hschp.html
+Bachelor of Arts with Bachelor of Science,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/babsc_bartbscd1.html
+Honours Degree of Bachelor of Applied Biology - Waite Campus,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/happb_hbappbio.html
+Honours Degree of Bachelor of Food & Nutrition Science - Waite Campus,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hfsct_hbfsct.html
+Honours Degree of Bachelor of Science,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hsc_hbsc.html
+Honours Degree of Bachelor of Viticulture and Oenology - Waite Campus,Undergraduate,Science,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hvito_hbvitoen.html
+"Bachelor of Agricultural Sciences - Roseworthy Campus, Waite Campus",Undergraduate,Viticulture and Oenology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bags_bagricsci.html
+Bachelor of Viticulture and Oenology - Waite Campus,Undergraduate,Viticulture and Oenology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/bvito_bvitoenol.html
+Honours Degree of Bachelor of Viticulture and Oenology - Waite Campus,Undergraduate,Viticulture and Oenology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/hvito_hbvitoen.html
+Graduate Certificate in Art History,Postgraduate Coursework,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcarh_gcarthis.html
+Graduate Certificate in Environmental Policy and Management,Postgraduate Coursework,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcepm_gcenvp&m.html
+Graduate Diploma in Art History,Postgraduate Coursework,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdarh_gdarthist.html
+Graduate Diploma in Environmental Policy and Management,Postgraduate Coursework,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdepm_gdenvp&m.html
+"Graduate Diploma in Interpreting, Translation and Transcultural Communication",Postgraduate Coursework,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gditt_gdittc.html
+Master of Arts,Postgraduate Coursework,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/marts_marts.html
+Master of Arts (Curatorial & Museum Studies),Postgraduate Coursework,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/macms_macmusst.html
+"Master of Arts (Interpreting, Translation and Transcultural Communication)",Postgraduate Coursework,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/maitt_martittc.html
+Master of Arts (Studies in Art History),Postgraduate Coursework,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/maah_mastarth.html
+Master of Environmental Policy and Management,Postgraduate Coursework,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/menpm_menvp&mgt.html
+Professional Certificate in Environmental Policy and Management,Postgraduate Coursework,Arts,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/pcepm_pcenvp&m.html
+Graduate Certificate in Education,Postgraduate Coursework,Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gced_gceduc.html
+Graduate Certificate in Music Teaching,Postgraduate Coursework,Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcmt_gcmusteach.html
+Graduate Diploma in Education Studies,Postgraduate Coursework,Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdes_gdeducst.html
+Master of Education,Postgraduate Coursework,Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/meduc_meduc.html
+Master of Teaching (Middle and Secondary),Postgraduate Coursework,Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mtms_mteachm&s.html
+Professional Certificate in Education,Postgraduate Coursework,Education,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/pced_pceduc.html
+Graduate Certificate in Music Teaching,Postgraduate Coursework,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcmt_gcmusteach.html
+Graduate Diploma in Music (Performance and Pedagogy),Postgraduate Coursework,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdmpp_gdmuspp.html
+Graduate Diploma in Music Performance,Postgraduate Coursework,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdmup_gdmusperf.html
+Master of Arts,Postgraduate Coursework,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/marts_marts.html
+Master of Music (Performance Studies),Postgraduate Coursework,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mmups_mmuspest.html
+Master of Music (Performance and Pedagogy),Postgraduate Coursework,Music,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mmupp_mmuspp.html
+Graduate Certificate in Computer Science,Postgraduate Coursework,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gccms_gccompsco.html
+Graduate Diploma in Computer Science,Postgraduate Coursework,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdcms_gdcompsci.html
+Master of Computer Science,Postgraduate Coursework,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mcoms_mcmpsci.html
+Master of Computing and Innovation,Postgraduate Coursework,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mcomi_mcompinnov.html
+Master of Data Science,Postgraduate Coursework,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mdsc_mdatasc.html
+Master of Software Engineering,Postgraduate Coursework,Computer Science and IT,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mseng_msofteng.html
+Graduate Certificate in Marine Engineering,Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcmar_gcmareng.html
+Graduate Certificate in Petroleum Geology and Geophysics,Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcpgg_gcpetrog&g.html
+Graduate Certificate in Sciences (Defence Signal Information Processing),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcsds_gcsdsip.html
+Graduate Certificate in Sciences (Defence),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcsde_gcsdef.html
+Graduate Diploma in Engineering (Aerospace),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdeng_gdengaero.html
+Graduate Diploma in Engineering (Chemical),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdeng_gdengchem.html
+Graduate Diploma in Engineering (Civil & Environmental),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdeng_gdengciven.html
+Graduate Diploma in Engineering (Civil & Structural),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdeng_gdengcivst.html
+Graduate Diploma in Engineering (Electrical),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdeng_gdengelec.html
+Graduate Diploma in Engineering (Electronic),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdeng_gdengelect.html
+Graduate Diploma in Engineering (Mechanical),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdeng_gdengmech.html
+Graduate Diploma in Engineering (Mechatronic),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdeng_gdengmecha.html
+Graduate Diploma in Engineering (Mining),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdeng_gdengmin.html
+Graduate Diploma in Marine Engineering,Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdmar_gdmareng.html
+Graduate Diploma in Sciences (Defence Signal Information Processing),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdsds_gdsdsip.html
+Graduate Diploma in Sciences (Defence),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdsde_gdsdef.html
+Master of Data Science,Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mdsc_mdatasc.html
+Master of Engineering (Aerospace),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/meng_mengaero.html
+Master of Engineering (Chemical),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/meng_mengch.html
+Master of Engineering (Civil & Structural),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/meng_mengcivst.html
+Master of Engineering (Civil and Environmental),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/meng_mengciven.html
+Master of Engineering (Electrical),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/meng_mengelec.html
+Master of Engineering (Electronic),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/meng_mengelect.html
+Master of Engineering (Mechanical),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/meng_mengmechan.html
+Master of Engineering (Mechatronic),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/meng_mengmecha.html
+Master of Engineering (Mining),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/meng_mengmin.html
+Master of Geostatistics,Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mgeos_mgeostat.html
+Master of Marine Engineering,Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mmar_mmareng.html
+Master of Petroleum Engineering,Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mpen_mpetroleng.html
+Master of Science (Petroleum Geoscience),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mscpe_mscpetge.html
+Master of Sciences (Defence Signal Information Processing),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mscds_mscdsip.html
+Master of Sciences (Defence),Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mscd_mscdef.html
+Master of Software Engineering,Postgraduate Coursework,Engineering,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mseng_msofteng.html
+Graduate Certificate in Sciences (Defence Signal Information Processing),Postgraduate Coursework,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcsds_gcsdsip.html
+Graduate Diploma in Sciences (Defence Signal Information Processing),Postgraduate Coursework,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdsds_gdsdsip.html
+Master of Computing and Innovation,Postgraduate Coursework,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mcomi_mcompinnov.html
+Master of Data Science,Postgraduate Coursework,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mdsc_mdatasc.html
+Master of Mathematical Sciences,Postgraduate Coursework,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mmasc_mmathsci.html
+Master of Sciences (Defence Signal Information Processing),Postgraduate Coursework,Mathematical Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mscds_mscdsip.html
+Graduate Certificate in Alcohol and Drug Studies,Postgraduate Coursework,Addiction,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcads_gcalcdrugs.html
+Graduate Certificate in International Addiction Studies,Postgraduate Coursework,Addiction,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcias_gcintadst.html
+Graduate Diploma in Addiction and Mental Health,Postgraduate Coursework,Addiction,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdamh_gdadmhlt.html
+Graduate Diploma in International Addiction Studies,Postgraduate Coursework,Addiction,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdias_gdintadst.html
+Master of Science in Addiction Studies,Postgraduate Coursework,Addiction,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mas_maddstud.html
+Graduate Certificate in Counselling and Psychotherapy,Postgraduate Coursework,Counselling and Psychotherapy,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gccp_gccounpsy.html
+Graduate Diploma in Counselling and Psychotherapy,Postgraduate Coursework,Counselling and Psychotherapy,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdcp_gdcounpsy.html
+Master of Counselling and Psychotherapy,Postgraduate Coursework,Counselling and Psychotherapy,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mcp_mcounpsy.html
+Graduate Certificate in Oral Health Science,Postgraduate Coursework,Dentistry,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcorh_gcorhlthsc.html
+Graduate Diploma in Forensic Odontology - Teaching Hospitals,Postgraduate Coursework,Dentistry,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdfod_gdforodon.html
+Doctor of Clinical Dentistry - Teaching Hospitals,Postgraduate Coursework,Dentistry,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/drcd_drclinden.html
+Graduate Certificate in Alcohol and Drug Studies,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcads_gcalcdrugs.html
+Graduate Certificate in Biostatistics,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcbst_gcbiostat.html
+Graduate Certificate in Counselling and Psychotherapy,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gccp_gccounpsy.html
+Graduate Certificate in Health Economics,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gche_gchlthec.html
+Graduate Certificate in International Addiction Studies,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcias_gcintadst.html
+Graduate Certificate in Nursing Science (Infection Control Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcnsc_gcnsinfcnt.html
+Graduate Certificate in Oral Health Science,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcorh_gcorhlthsc.html
+Graduate Certificate in Public Health,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcpuh_gcpubhlth.html
+Graduate Diploma in Addiction and Mental Health,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdamh_gdadmhlt.html
+Graduate Diploma in Biostatistics,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdbst_gdbiostat.html
+Graduate Diploma in Counselling and Psychotherapy,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdcp_gdcounpsy.html
+Graduate Diploma in Health Economics,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdhe_gdhlthec.html
+Graduate Diploma in International Addiction Studies,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdias_gdintadst.html
+"Graduate Diploma in Nursing Science - North Terrace Campus, Teaching Hospitals",Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdns.html
+Graduate Diploma in Nursing Science (Acute Care Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsaccare.html
+Graduate Diploma in Nursing Science (Anaesthetic and Recovery Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsanarec.html
+Graduate Diploma in Nursing Science (Cardiac Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnscardia.html
+Graduate Diploma in Nursing Science (Emergency Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsemergy.html
+Graduate Diploma in Nursing Science (Intensive Care Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsintcar.html
+Graduate Diploma in Nursing Science (Oncology Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsoncol.html
+Graduate Diploma in Nursing Science (Orthopaedic Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsorthop.html
+Graduate Diploma in Nursing Science (Perioperative Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsperiop.html
+Graduate Diploma in Public Health,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdpuh_gdpubhlth.html
+Graduate Diploma in Forensic Odontology - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdfod_gdforodon.html
+Master of Biostatistics,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mbst_mbiostats.html
+Master of Clinical Nursing - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mclnu_mclinur.html
+Master of Counselling and Psychotherapy,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mcp_mcounpsy.html
+Master of Health Economics and Policy,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mhep_mhlthecpol.html
+Master of Minimally Invasive Surgery - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mmis_mmininvsur.html
+Master of Nurse Practitioner,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnp_mnurprac.html
+Master of Nursing Science - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurssc.html
+Master of Nursing Science (Acute Care Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscac.html
+Master of Nursing Science (Anaesthetics and Recovery Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscar.html
+Master of Nursing Science (Burns Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscbn.html
+Master of Nursing Science (Cardiac Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnursccn.html
+Master of Nursing Science (Emergency Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscen.html
+Master of Nursing Science (Intensive Care Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscic.html
+Master of Nursing Science (Mental Health Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscmh.html
+Master of Nursing Science (Oncology Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscon.html
+Master of Nursing Science (Orthopaedic Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscor.html
+Master of Nursing Science (Perioperative Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscpn.html
+Master of Nursing Science (Renal Nursing) - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscrn.html
+Master of Physician Assistant Studies,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mpas_mphysas.html
+Master of Psychology (Clinical),Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mpsyc_mclinpsy.html
+Master of Psychology (Health),Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mpsyh_mpsyhealth.html
+Master of Psychology (Organisational and Human Factors),Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mpohf_mpsychohm.html
+Master of Public Health,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mph_mpubhlt.html
+Master of Science in Addiction Studies,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mas_maddstud.html
+Master of Surgical Science - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/msusc_msursci.html
+Doctor of Clinical Dentistry - Teaching Hospitals,Postgraduate Coursework,Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/drcd_drclinden.html
+Graduate Certificate in Alcohol and Drug Studies,Postgraduate Coursework,Medicine and Surgery,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcads_gcalcdrugs.html
+Master of Minimally Invasive Surgery - Teaching Hospitals,Postgraduate Coursework,Medicine and Surgery,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mmis_mmininvsur.html
+Master of Physician Assistant Studies,Postgraduate Coursework,Medicine and Surgery,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mpas_mphysas.html
+Master of Surgical Science - Teaching Hospitals,Postgraduate Coursework,Medicine and Surgery,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/msusc_msursci.html
+Graduate Certificate in Nursing Science (Infection Control Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcnsc_gcnsinfcnt.html
+Graduate Diploma in Addiction and Mental Health,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdamh_gdadmhlt.html
+"Graduate Diploma in Nursing Science - North Terrace Campus, Teaching Hospitals",Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdns.html
+Graduate Diploma in Nursing Science (Acute Care Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsaccare.html
+Graduate Diploma in Nursing Science (Anaesthetic and Recovery Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsanarec.html
+Graduate Diploma in Nursing Science (Cardiac Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnscardia.html
+Graduate Diploma in Nursing Science (Emergency Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsemergy.html
+Graduate Diploma in Nursing Science (Intensive Care Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsintcar.html
+Graduate Diploma in Nursing Science (Oncology Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsoncol.html
+Graduate Diploma in Nursing Science (Orthopaedic Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsorthop.html
+Graduate Diploma in Nursing Science (Perioperative Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdnsc_gdnsperiop.html
+Master of Clinical Nursing - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mclnu_mclinur.html
+Master of Nurse Practitioner,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnp_mnurprac.html
+Master of Nursing Science - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurssc.html
+Master of Nursing Science (Acute Care Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscac.html
+Master of Nursing Science (Anaesthetics and Recovery Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscar.html
+Master of Nursing Science (Burns Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscbn.html
+Master of Nursing Science (Cardiac Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnursccn.html
+Master of Nursing Science (Emergency Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscen.html
+Master of Nursing Science (Intensive Care Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscic.html
+Master of Nursing Science (Mental Health Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscmh.html
+Master of Nursing Science (Oncology Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscon.html
+Master of Nursing Science (Orthopaedic Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscor.html
+Master of Nursing Science (Perioperative Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscpn.html
+Master of Nursing Science (Renal Nursing) - Teaching Hospitals,Postgraduate Coursework,Nursing,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mnusc_mnurscrn.html
+Graduate Certificate in Counselling and Psychotherapy,Postgraduate Coursework,Psychology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gccp_gccounpsy.html
+Graduate Diploma in Counselling and Psychotherapy,Postgraduate Coursework,Psychology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdcp_gdcounpsy.html
+Master of Counselling and Psychotherapy,Postgraduate Coursework,Psychology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mcp_mcounpsy.html
+Master of Psychology (Clinical),Postgraduate Coursework,Psychology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mpsyc_mclinpsy.html
+Master of Psychology (Health),Postgraduate Coursework,Psychology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mpsyh_mpsyhealth.html
+Master of Psychology (Organisational and Human Factors),Postgraduate Coursework,Psychology,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mpohf_mpsychohm.html
+Graduate Certificate in Public Health,Postgraduate Coursework,Public Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcpuh_gcpubhlth.html
+Graduate Diploma in Public Health,Postgraduate Coursework,Public Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdpuh_gdpubhlth.html
+Master of Public Health,Postgraduate Coursework,Public Health,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mph_mpubhlt.html
+Master of Architecture with Master of Landscape Architecture,Postgraduate Coursework,Architecture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/marml_marc/mlarc.html
+Master of Planning (Urban Design) with Master of Landscape Architecture,Postgraduate Coursework,Architecture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mpmla_mlarcmplan.html
+Master of Architecture by coursework,Postgraduate Coursework,Architecture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/march_marchcswk.html
+Master of Construction Management,Postgraduate Coursework,Architecture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mcmgt_mconmgt.html
+Master of Landscape Architecture,Postgraduate Coursework,Architecture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mlack_mlarchcswk.html
+Master of Planning,Postgraduate Coursework,Architecture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mplan_mplanning.html
+Master of Planning (Urban Design),Postgraduate Coursework,Architecture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mpud_mplanud.html
+Master of Property,Postgraduate Coursework,Architecture,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mprop_mproperty.html
+Graduate Certificate in Applied Economics,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcape_gcappeco.html
+Graduate Certificate in Applied Project Management,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcapm_gcapm.html
+Graduate Certificate in Applied Project Management - Online,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcapm_gcapmol.html
+Graduate Certificate in Business Administration,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcbad_gcbusad.html
+Graduate Certificate in Business Law,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcbla_gcbuslaw.html
+Graduate Certificate in Commerce,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gccom_gccommerce.html
+Graduate Certificate in Cyber Security Management,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gccsm_gccsm.html
+Graduate Certificate in Family Enterprise,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcfe_gcfament.html
+Graduate Certificate in Global Food and Agricultural Business,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcgfa_gcglobfab.html
+Graduate Certificate in Innovation and Entrepreneurship - Online,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcinn_gcinentrol.html
+Graduate Certificate in International Business,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcib_gcintbus.html
+Graduate Certificate in International Economics,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcine_gcinteco.html
+Graduate Certificate in International Trade and Development,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcitd_gcintradev.html
+Graduate Certificate in Self Managed Superannuation Funds,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcsms_gcsmsf.html
+Graduate Certificate in Social Entrepreneurship and Innovation,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcsei_gcsocen&in.html
+Graduate Certificate in Wine Business,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcwib_gcwinebus.html
+Graduate Diploma in Agribusiness,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdag_gdagribus.html
+Graduate Diploma in Applied Economics,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdape_gdappeco.html
+Graduate Diploma in Applied Finance,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdapf_gdappf.html
+Graduate Diploma in Applied Project Management,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdapm_gdapm.html
+Graduate Diploma in Applied Project Management - Online,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdapm_gdapmol.html
+Graduate Diploma in Business Administration,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdbad_gdbusad.html
+Graduate Diploma in Business Law,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdbla_gdbuslaw.html
+Graduate Diploma in Commerce,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdcom_gdcommerce.html
+Graduate Diploma in Entrepreneurship and Innovation,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdei_gdentinnov.html
+Graduate Diploma in Global Food and Agricultural Business,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdgfa_gdglobfab.html
+Graduate Diploma in Innovation and Entrepreneurship - Online,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdinn_gdinentrol.html
+Graduate Diploma in International Business,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdib_gdintbus.html
+Graduate Diploma in International Economics,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdine_gdinteco.html
+Graduate Diploma in International Trade and Development,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gditd_gdintradev.html
+Graduate Diploma in Professional Accounting,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdpra_gdprofac.html
+Graduate Diploma in Wine Business,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdwib_gdwinebus.html
+Master of Accounting,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/maccg_maccntg.html
+Master of Accounting and Finance,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/macfi_macfin.html
+Master of Accounting and Marketing,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/macma_maccmktg.html
+Master of Advanced Economics,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/maeco_madvecon.html
+Master of Agribusiness,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/magri_magribus.html
+Master of Applied Economics,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mappe_mappecon.html
+Master of Applied Finance,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mapfn_mappfi.html
+Master of Applied Innovation and Entrepreneurship,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/maie_mainentr.html
+Master of Applied Innovation and Entrepreneurship - Online,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/maie_mainentrol.html
+Master of Applied Innovation and Entrepreneurship (Advanced),Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/maiea_mainentra.html
+Master of Applied Project Management - Online,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mapm_mapmol.html
+Master of Applied Project Management,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mapm_mapprojmgt.html
+Master of Applied Project Management (Project Systems) - Online,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mapmp_mapmpsol.html
+Master of Applied Project Management (Project Systems),Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mapmp_mapprojmps.html
+Master of Business Administration,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mba12_mba12.html
+Master of Business Law,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mbusl_mbusilaw.html
+Master of Business Research,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mbusr_mbusrsch.html
+Master of Commerce by coursework,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mcomm_mcomm.html
+Master of Finance,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mfin_mfinance.html
+Master of Finance and Business Economics,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mfbe_mfbec.html
+Master of Global Food and Agricultural Business,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mgfab_mglobfab.html
+Master of Health Economics and Policy,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mhep_mhlthecpol.html
+Master of Innovation and Entrepreneurship,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/minen_minentr.html
+Master of Innovation and Entrepreneurship - Online,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/minen_minentrol.html
+Master of International Business,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mib_mintbus.html
+Master of International Management,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mim_mintmgmt.html
+Master of International Trade and Development,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mitd_mintradev.html
+Master of Marketing,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mcomc_mcommk.html
+Master of Professional Accounting,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mprac_mprofac.html
+Master of Research Studies (Economics),Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mrsec_mrseco.html
+Master of Wine Business,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mwb_mwinbus.html
+Professional Certificate in Applied Self Managed Superannuation Fund,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/pcasm_pcasmsf.html
+Professional Certificate in International Trade,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/pcitr_pcintrade.html
+Professional Certificate in Self-Managed Superannuation Funds,Postgraduate Coursework,Business and Economics,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/pcsms_pcsmsuper.html
+Master of Business Law and Master of Applied Finance,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mblma_mblmaf.html
+Master of Business Law and Master of Commerce,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mblmc_mblmc.html
+Master of Business Law and Master of Marketing,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mblmc_mblmcmk.html
+Master of Business Law and Master of Professional Accounting,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mblmp_mblmpa.html
+Master of Laws and Master of Applied Finance,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mlmaf_mlmaf.html
+Master of Laws and Master of Commerce,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mlcmc_mlcmcc.html
+Master of Laws and Master of Marketing,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mlcmc_mlcmcmk.html
+Master of Laws and Master of Professional Accounting,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mlmpa_mlmpa.html
+Graduate Certificate in Business Law,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcbla_gcbuslaw.html
+Graduate Certificate in Insolvency Law,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcil_gcinslaw.html
+Graduate Certificate in Operational Commercial Law,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcocl_gcopcomlaw.html
+Graduate Diploma in Business Law,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdbla_gdbuslaw.html
+Graduate Diploma in Legal Practice,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdlp_gdlegalpr.html
+Master of Business Law,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mbusl_mbusilaw.html
+Master of Comparative Laws (Adelaide/Mannheim),Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mclaw_mcomplaws.html
+Master of Laws,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mlawc_llmcwk.html
+Professional Certificate in Arbitration,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/pcarb_pcarb.html
+Professional Certificate in Operational Commercial Law,Postgraduate Coursework,Law,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/pcocl_pcopcomlaw.html
+Graduate Certificate in Bioinformatics,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcbi_gcbioinf.html
+Graduate Certificate in Biotechnology (Biomedical),Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcbib_gcbibiom.html
+Graduate Certificate in Biotechnology (Plant Biotechnology) - Waite Campus,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcbio_gcbiotpb.html
+Graduate Certificate in Medical Physics,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcmp_gcmedphys.html
+Graduate Certificate in Radiation Management,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcrm_gcradmgt.html
+Graduate Certificate in Science (Ecotourism),Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gcsce_gcscecot.html
+Graduate Diploma in Bioinformatics,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdbi_gdbioinf.html
+Graduate Diploma in Biotechnology (Biomedical),Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdbib_gdbibiom.html
+Graduate Diploma in Biotechnology (Plant Biotechnology) - Waite Campus,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdbio_gdbiotech.html
+Graduate Diploma in Oenology - Waite Campus,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdoen_gdoen.html
+Graduate Diploma in Science (Ecotourism),Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdsce_gdscecot.html
+Graduate Diploma in Viticulture - Waite Campus,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdvit_gdvit.html
+Graduate Diploma in Viticulture and Oenology - Waite Campus,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/gdvo_gdvitoenol.html
+Master of Bioinformatics,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mbio_mbioinf.html
+Master of Biotechnology (Biomedical),Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mbib_mbibiom.html
+Master of Biotechnology (Plant Biotechnology) - Waite Campus,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mbiot_mbiotechpb.html
+Master of Science (Ecotourism),Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mscec_mscecot.html
+Master of Viticulture and Oenology - Waite Campus,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/mvo_mvitoenol.html
+Doctor of Veterinary Medicine - Roseworthy Campus,Postgraduate Coursework,Sciences,,University of Adelaide,https://www.adelaide.edu.au/degree-finder/2019/dvetm_drvetmedi.html
